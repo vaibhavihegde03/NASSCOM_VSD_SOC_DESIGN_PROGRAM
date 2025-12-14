@@ -1,11 +1,14 @@
-**DIGITAL VLSI SOC DESIGN AND PLANNING**
+# Digital VLSI SoC Design and Planning
+
+## DAY 1 – OPENLANE
+
+### Synthesis of picorv32a
+
+1. Open OpenLANE environment
+```bash
+docker
 
 
->**Day1:**
 
-#Change directory to openlane flow directory
->cd Desktop/work/tools/openlane_working_dir/openlane
-
->docker
 
 
