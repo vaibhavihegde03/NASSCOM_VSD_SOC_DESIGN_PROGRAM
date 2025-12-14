@@ -1,4 +1,4 @@
-**DIGITAL VLSI SOC DESIGN AND PLANNING**
+                                                            **DIGITAL VLSI SOC DESIGN AND PLANNING**
 
 
 **Day1:**
